@@ -1,17 +1,17 @@
 {
-  "name": "live-theme-editor",
-  "displayName": "Live Theme Editor",
+  "name": "live-ide-theme-editor",
+  "displayName": "Live IDE Theme Editor",
   "description": "Live visual editor for VS Code, Cursor, TRAE, and other VSIX-compatible IDE theme colors.",
   "version": "0.1.0",
-  "publisher": "fractalmandala",
-  "author": "Fractal Mandala",
+  "publisher": "adminBodha2",
+  "author": "adminBodha2",
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/fractalmandala/ide-theme-editor"
+    "url": "https://www.github.com/adminBodha2/live-ide-theme-editor"
   },
-  "homepage": "https://www.github.com/fractalmandala/ide-theme-editor",
+  "homepage": "https://www.github.com/adminBodha2/live-ide-theme-editor",
   "bugs": {
-    "url": "https://www.github.com/fractalmandala/ide-theme-editor/issues"
+    "url": "https://www.github.com/adminBodha2/live-ide-theme-editor"
   },
   "engines": {
     "vscode": "^1.90.0"

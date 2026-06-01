@@ -2,7 +2,7 @@
 
 ![Live Theme Editor screenshot](./ide-theme-editor.png)
 
-Live Theme Editor is a VSIX extension by **Fractal Mandala** for VS Code, Cursor, TRAE, and other VSIX-compatible IDEs. It provides a live visual editor for workbench colors, TextMate syntax colors, and semantic token colors.
+Live Theme Editor is a VSIX extension by **Admin Bodha** for VS Code, Cursor, TRAE, and other VSIX-compatible IDEs. It provides a live visual editor for workbench colors, TextMate syntax colors, and semantic token colors.
 
 Color changes are applied immediately through:
 
@@ -10,7 +10,7 @@ Color changes are applied immediately through:
 - `editor.tokenColorCustomizations`
 - `editor.semanticTokenColorCustomizations`
 
-Repository: https://www.github.com/fractalmandala/ide-theme-editor
+Repository: https://www.github.com/adminBodha2/live-ide-theme-editor
 
 ## Features
 
